@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DimondPrisePrediction
+Version: 0.0.1
+Author: rahul bhagat
+Author-email: rahulbhagat9600@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
